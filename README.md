@@ -66,7 +66,7 @@
 
 ## 💻 PRMs for Other Tasks
 
-- (**ASPRM**) AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[arXiv 2025.02](http://arxiv.org/abs/2502.13943)]
+- (**ASPRM**) AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[arXiv 2025.02](http://arxiv.org/abs/2502.13943)] [[Code](https://github.com/Lux0926/ASPRM)] [[Model](https://huggingface.co/Lux0926)] [[Data](https://huggingface.co/Lux0926)]
 
 - (**AgentPRM**) Process Reward Models for LLM Agents: Practical Framework and Directions [[arXiv 2025.02](http://arxiv.org/abs/2502.10325)] [[Code](https://github.com/sanjibanc/agent_prm)]
 

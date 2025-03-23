@@ -24,61 +24,63 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
-- (**RetrievalPRM**) Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning [[arXiv 2025.02](http://arxiv.org/abs/2502.14361)]
+- (**RetrievalPRM**) Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://anonymous.4open.science/r/RetrievalPRM-1C77)] [[Model](https://huggingface.co/gebro13/RetrievalPRM)] [[Data](https://huggingface.co/datasets/gebro13/RetrievalPRM_Dataset)]
 
-- (**Multilingual PRM**) Demystifying Multilingual Chain-of-Thought in Process Reward Modeling [[arXiv 2025.02](http://arxiv.org/abs/2502.14361)] [[Code](https://github.com/weixuan-wang123/Multilingual-PRM)]
+- (**Multilingual PRM**) Demystifying Multilingual Chain-of-Thought in Process Reward Modeling [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://github.com/weixuan-wang123/Multilingual-PRM)]
 
 - (**Universal PRM**) AURORA:Automated Training Framework of Universal Process Reward Models via Ensemble Prompting and Reverse Verification [[arXiv 2025.02](https://arxiv.org/abs/2502.11520)] [[Website](https://auroraprm.github.io)] [[Model](https://huggingface.co/infly/Universal-PRM-7B)]
 
 - (**PURE PRM**) Stop Gamma Decay: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning [[Blog](https://tungsten-ink-510.notion.site/Stop-Gamma-Decay-Min-Form-Credit-Assignment-Is-All-Process-Reward-Model-Needs-for-Reasoning-19fcb6ed0184804eb07fd310b38af155)] [[Code](https://github.com/CJReinforce/PURE)] [[Model](https://huggingface.co/jinachris/PURE-PRM-7B)] [[Data](https://huggingface.co/datasets/HuggingFaceH4/prm800k-trl-dedup)]
 
-- (**CFPRM**) Coarse-to-Fine Process Reward Modeling for Mathematical Reasoning [[arXiv 2025.01](http://arxiv.org/abs/2501.13622)]
+- (**CFPRM**) Coarse-to-Fine Process Reward Modeling for Mathematical Reasoning [[arXiv 2025.01](https://arxiv.org/abs/2501.13622)]
 
-- (**Qwen2.5-Math PRM**) The Lessons of Developing Process Reward Models in Mathematical Reasoning [[arXiv 2025.01](http://arxiv.org/abs/2501.07301)] [[Website](https://qwenlm.github.io/blog/qwen2.5-math-prm)] [[Model](https://huggingface.co/collections/Qwen/qwen25-math-66eaa240a1b7d5ee65f1da3e)]
+- (**Qwen2.5-Math PRM**) The Lessons of Developing Process Reward Models in Mathematical Reasoning [[arXiv 2025.01](https://arxiv.org/abs/2501.07301)] [[Website](https://qwenlm.github.io/blog/qwen2.5-math-prm)] [[Model](https://huggingface.co/collections/Qwen/qwen25-math-66eaa240a1b7d5ee65f1da3e)]
 
-- (**PPM**) rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking [[arXiv 2025.01](http://arxiv.org/abs/2501.04519)] [[Code](https://github.com/microsoft/rStar)]
+- (**PPM**) rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking [[arXiv 2025.01](https://arxiv.org/abs/2501.04519)] [[Code](https://github.com/microsoft/rStar)]
 
-- (**ER-PRM**) Entropy-Regularized Process Reward Model [[arXiv 2024.12](http://arxiv.org/abs/2412.11006)] [[Code](https://github.com/hanningzhang/ER-PRM)] [[Website](https://hanningzhang.github.io/math-prm/)] [[Model](https://huggingface.co/HanningZhang/Llama3.1-Math-PRM)] [[Data](https://huggingface.co/datasets/HanningZhang/ER-PRM-Data)]
+- (**ER-PRM**) Entropy-Regularized Process Reward Model [[arXiv 2024.12](https://arxiv.org/abs/2412.11006)] [[Code](https://github.com/hanningzhang/ER-PRM)] [[Website](https://hanningzhang.github.io/math-prm/)] [[Model](https://huggingface.co/HanningZhang/Llama3.1-Math-PRM)] [[Data](https://huggingface.co/datasets/HanningZhang/ER-PRM-Data)]
 
-- (**Implicit PRM**) Free Process Rewards without Process Labels [[arXiv 2024.12](http://arxiv.org/abs/2412.01981)] [[Code](https://github.com/PRIME-RL/ImplicitPRM)] [[Model](https://huggingface.co/collections/Windy0822/implicitprm-675033e6b3719046c13e2e48)] [[Data](https://huggingface.co/datasets/Windy0822/ultrainteract_math_rollout)]
+- (**Implicit PRM**) Free Process Rewards without Process Labels [[arXiv 2024.12](https://arxiv.org/abs/2412.01981)] [[Code](https://github.com/PRIME-RL/ImplicitPRM)] [[Model](https://huggingface.co/collections/Windy0822/implicitprm-675033e6b3719046c13e2e48)] [[Data](https://huggingface.co/datasets/Windy0822/ultrainteract_math_rollout)]
 
 - (**Skywork PRM**) Skywork-o1 Open Series [[Model](https://huggingface.co/collections/Skywork/skywork-o1-open-67453df58e12f6c3934738d0)]
 
 - (**RLHFlow PRM**) An Implementation of Generative PRM [[Code](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/math-rm)] [[Model](https://huggingface.co/collections/RLHFlow/rlhflow-math-process-reward-model-6725a42fc8808e12aa1cb144)] [[Data](https://huggingface.co/collections/RLHFlow/rlhflow-math-process-reward-model-6725a42fc8808e12aa1cb144)]
 
-- (**PQM**) Process Reward Model with Q-Value Rankings [[ICLR 2025](https://openreview.net/forum?id=wQEdh2cgEk)] [[arXiv 2024.10](http://arxiv.org/abs/2410.11287)] [[Code](https://github.com/WindyLee0822/Process_Q_Model)] [[Model](https://huggingface.co/Windy0822/PQM)]
+- (**PQM**) Process Reward Model with Q-Value Rankings [[ICLR 2025](https://openreview.net/forum?id=wQEdh2cgEk)] [[arXiv 2024.10](https://arxiv.org/abs/2410.11287)] [[Code](https://github.com/WindyLee0822/Process_Q_Model)] [[Model](https://huggingface.co/Windy0822/PQM)]
 
-- (**Math-psa**) OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models [[arXiv 2024.10](http://arxiv.org/abs/2410.09671)] [[Code](https://github.com/openreasoner/openr)] [[Website](https://openreasoner.github.io)] [[Model](https://huggingface.co/openreasoner/Math-psa)] [[Data](https://huggingface.co/datasets/openreasoner/MATH-APS)]
+- (**Math-psa**) OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models [[arXiv 2024.10](https://arxiv.org/abs/2410.09671)] [[Code](https://github.com/openreasoner/openr)] [[Website](https://openreasoner.github.io)] [[Model](https://huggingface.co/openreasoner/Math-psa)] [[Data](https://huggingface.co/datasets/openreasoner/MATH-APS)]
 
-- (**PAV**) Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [[ICLR 2025](https://openreview.net/forum?id=A6Y7AqlzLW)] [[arXiv 2024.10](http://arxiv.org/abs/2410.08146)]
+- (**PAV**) Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [[ICLR 2025](https://openreview.net/forum?id=A6Y7AqlzLW)] [[arXiv 2024.10](https://arxiv.org/abs/2410.08146)]
 
-- (**OmegaPRM**) Improve Mathematical Reasoning in Language Models by Automated Process Supervision [[arXiv 2024.06](http://arxiv.org/abs/2406.06592)] [[Code (Third Party)](https://github.com/openreasoner/openr/tree/main/data/omegaPRM_v2)]
+- (**OmegaPRM**) Improve Mathematical Reasoning in Language Models by Automated Process Supervision [[arXiv 2024.06](https://arxiv.org/abs/2406.06592)] [[Code (Third Party)](https://github.com/openreasoner/openr/tree/main/data/omegaPRM_v2)]
 
-- (**Math-Shepherd**) Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [[ACL 2024](https://aclanthology.org/2024.acl-long.510)] [[arXiv 2023.12](http://arxiv.org/abs/2312.08935)] [[Model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-prm)] [[Data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]
+- (**Math-Shepherd**) Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [[ACL 2024](https://aclanthology.org/2024.acl-long.510)] [[arXiv 2023.12](https://arxiv.org/abs/2312.08935)] [[Model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-prm)] [[Data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]
 
-- Let's reward step by step: Step-Level reward model as the Navigators for Reasoning [[arXiv 2023.10](http://arxiv.org/abs/2310.10080)]
+- Let's reward step by step: Step-Level reward model as the Navigators for Reasoning [[arXiv 2023.10](https://arxiv.org/abs/2310.10080)]
 
-- Let's Verify Step by Step [[ICLR 2024](https://openreview.net/forum?id=v8L0pN6EOi)] [[arXiv 2023.05](http://arxiv.org/abs/2305.20050)] [[Data](https://github.com/openai/prm800k)] [[Blog](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)]
+- Let's Verify Step by Step [[ICLR 2024](https://openreview.net/forum?id=v8L0pN6EOi)] [[arXiv 2023.05](https://arxiv.org/abs/2305.20050)] [[Data](https://github.com/openai/prm800k)] [[Blog](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)]
 
-- Solving math word problems with process- and outcome-based feedback [[arXiv 2022.11](http://arxiv.org/abs/2211.14275)]
+- Solving math word problems with process- and outcome-based feedback [[arXiv 2022.11](https://arxiv.org/abs/2211.14275)]
 
 
 
 ## 💻 PRMs for Other Tasks
 
-- (**ASPRM**) AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[arXiv 2025.02](http://arxiv.org/abs/2502.13943)] [[Code](https://github.com/Lux0926/ASPRM)] [[Model](https://huggingface.co/Lux0926)] [[Data](https://huggingface.co/Lux0926)]
+- (**MT-RewardTree**) MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling [[arXiv 2025.03](https://arxiv.org/abs/2503.12123)] [[Code](https://github.com/sabijun/MT-RewardTree)] [[Website](https://sabijun.github.io/MT_RewardTreePage)] [[Model](https://huggingface.co/collections/sabijun/mt-rewardtree-models-67cac935143f75dfae6f0938)] [[Data](https://huggingface.co/collections/sabijun/mt-rewardtree-dataset-67cacadc0dcbc92c02428948)]
 
-- (**AgentPRM**) Process Reward Models for LLM Agents: Practical Framework and Directions [[arXiv 2025.02](http://arxiv.org/abs/2502.10325)] [[Code](https://github.com/sanjibanc/agent_prm)]
+- (**ASPRM**) AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[arXiv 2025.02](https://arxiv.org/abs/2502.13943)] [[Code](https://github.com/Lux0926/ASPRM)] [[Model](https://huggingface.co/Lux0926)] [[Data](https://huggingface.co/Lux0926)]
 
-- (**VersaPRM**) VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data [[arXiv 2025.02](http://arxiv.org/abs/2502.06737)] [[Code](https://github.com/UW-Madison-Lee-Lab/VersaPRM)] [[Model](https://huggingface.co/collections/UW-Madison-Lee-Lab/versaprm-67a7eb34049b2a1bd3055f6e)] [[Data](https://huggingface.co/datasets/UW-Madison-Lee-Lab/MMLU-Pro-CoT-Train-Labeled)]
+- (**AgentPRM**) Process Reward Models for LLM Agents: Practical Framework and Directions [[arXiv 2025.02](https://arxiv.org/abs/2502.10325)] [[Code](https://github.com/sanjibanc/agent_prm)]
 
-- (**MedS$^3$**) MedS$^3$: Towards Medical Small Language Models with Self-Evolved Slow Thinking [[arXiv 2025.01](http://arxiv.org/abs/2501.12051)] [[Code](https://github.com/pixas/MedSSS)] [[Model](https://huggingface.co/pixas/MedSSS_PRM)] [[Data](https://huggingface.co/datasets/pixas/MedSSS-data)]
+- (**VersaPRM**) VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data [[arXiv 2025.02](https://arxiv.org/abs/2502.06737)] [[Code](https://github.com/UW-Madison-Lee-Lab/VersaPRM)] [[Model](https://huggingface.co/collections/UW-Madison-Lee-Lab/versaprm-67a7eb34049b2a1bd3055f6e)] [[Data](https://huggingface.co/datasets/UW-Madison-Lee-Lab/MMLU-Pro-CoT-Train-Labeled)]
+
+- (**MedS$^3$**) MedS$^3$: Towards Medical Small Language Models with Self-Evolved Slow Thinking [[arXiv 2025.01](https://arxiv.org/abs/2501.12051)] [[Code](https://github.com/pixas/MedSSS)] [[Model](https://huggingface.co/pixas/MedSSS_PRM)] [[Data](https://huggingface.co/datasets/pixas/MedSSS-data)]
 
 - (**OpenPRM**) OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees [[ICLR 2025](https://openreview.net/forum?id=fGIqGfmgkW)]
 
-- (**o1-Coder**) o1-Coder: an o1 Replication for Coding [[arXiv 2024.12](http://arxiv.org/abs/2412.00154)] [[Code](https://github.com/ADaM-BJTU/O1-CODER)]
+- (**o1-Coder**) o1-Coder: an o1 Replication for Coding [[arXiv 2024.12](https://arxiv.org/abs/2412.00154)] [[Code](https://github.com/ADaM-BJTU/O1-CODER)]
 
-- Process Supervision-Guided Policy Optimization for Code Generation [[arXiv 2024.10](http://arxiv.org/abs/2410.17621)]
+- Process Supervision-Guided Policy Optimization for Code Generation [[arXiv 2024.10](https://arxiv.org/abs/2410.17621)]
 
 
 
@@ -96,9 +98,11 @@
 
 ## 📊 Benchmarks
 
-- (**PRMBench**) PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models [[arXiv 2025.01](http://arxiv.org/abs/2501.03124)] [[Code](https://github.com/ssmisya/PRMBench)] [[Website](https://prmbench.github.io/)] [[Data](https://huggingface.co/datasets/hitsmy/PRMBench_Preview)]
+- (**MPBench**) MPBench: A Comprehensive Multimodal Reasoning Benchmark for Process Errors Identification [[arXiv 2025.03](https://arxiv.org/abs/2503.12505)] [[Code](https://github.com/xu5zhao/MPBench)] [[Website](https://mpbench.github.io)] [[Data](https://huggingface.co/datasets/xuzhaopan/MPBench)]
 
-- (**ProcessBench**) ProcessBench: Identifying Process Errors in Mathematical Reasoning [[arXiv 2024.12](http://arxiv.org/abs/2412.06559)] [[Code](https://github.com/QwenLM/ProcessBench)] [[Model](https://huggingface.co/Qwen/Qwen2.5-Math-7B-PRM800K)] [[Data](https://huggingface.co/datasets/Qwen/ProcessBench)]
+- (**PRMBench**) PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models [[arXiv 2025.01](https://arxiv.org/abs/2501.03124)] [[Code](https://github.com/ssmisya/PRMBench)] [[Website](https://prmbench.github.io)] [[Data](https://huggingface.co/datasets/hitsmy/PRMBench_Preview)]
+
+- (**ProcessBench**) ProcessBench: Identifying Process Errors in Mathematical Reasoning [[arXiv 2024.12](https://arxiv.org/abs/2412.06559)] [[Code](https://github.com/QwenLM/ProcessBench)] [[Model](https://huggingface.co/Qwen/Qwen2.5-Math-7B-PRM800K)] [[Data](https://huggingface.co/datasets/Qwen/ProcessBench)]
 
 
 

@@ -24,6 +24,8 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
+- (**GenPRM**) GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning [[arXiv 2025.04](https://arxiv.org/abs/2504.00891)] [[Code](https://github.com/RyanLiu112/GenPRM)] [[Website](https://ryanliu112.github.io/GenPRM)] [[Model](https://huggingface.co/collections/GenPRM/genprm-67ee4936234ba5dd16bb9943)] [[Data](https://huggingface.co/collections/GenPRM/genprm-67ee4936234ba5dd16bb9943)]
+
 - (**RetrievalPRM**) Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://anonymous.4open.science/r/RetrievalPRM-1C77)] [[Model](https://huggingface.co/gebro13/RetrievalPRM)] [[Data](https://huggingface.co/datasets/gebro13/RetrievalPRM_Dataset)]
 
 - (**Multilingual PRM**) Demystifying Multilingual Chain-of-Thought in Process Reward Modeling [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://github.com/weixuan-wang123/Multilingual-PRM)]
@@ -52,7 +54,13 @@
 
 - (**PAV**) Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [[ICLR 2025](https://openreview.net/forum?id=A6Y7AqlzLW)] [[arXiv 2024.10](https://arxiv.org/abs/2410.08146)]
 
+- FG-PRM: Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning
+
+- Advancing Process Verification for Large Language Models via Tree-Based Preference Learning 
+
 - (**OmegaPRM**) Improve Mathematical Reasoning in Language Models by Automated Process Supervision [[arXiv 2024.06](https://arxiv.org/abs/2406.06592)] [[Code (Third Party)](https://github.com/openreasoner/openr/tree/main/data/omegaPRM_v2)]
+
+- AlphaMath Almost Zero: process Supervision without process 
 
 - (**Math-Shepherd**) Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [[ACL 2024](https://aclanthology.org/2024.acl-long.510)] [[arXiv 2023.12](https://arxiv.org/abs/2312.08935)] [[Model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-prm)] [[Data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]
 
@@ -121,14 +129,25 @@ If you find this work helpful, please consider citing the repository:
 ```bibtex
 @misc{Awesome-Process-Reward-Models,
     title        = {Awesome Process Reward Models},
-    author       = {Runze Liu and Jian Zhao and Kaiyan Zhang and Junqi Gao and Xiu Li and Biqing Qi and Wanli Ouyang and Bowen Zhou},
+    author       = {Runze Liu and Jian Zhao and Kaiyan Zhang and Zhimu Zhou and Junqi Gao and Dong Li and Jiafei Lyu and Zhouyi Qian and Biqing Qi and Xiu Li and Bowen Zhou},
     howpublished = {\url{https://github.com/RyanLiu112/Awesome-Process-Reward-Models}},
     note         = {GitHub repository},
     year         = {2025}
 }
 ```
 
-Our recent work on LLM test-time scaling with PRMs on mathematical tasks:
+Out recent work on PRM test-time scaling:
+
+```bibtex
+@article{zhao2025genprm,
+    title   = {GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning},
+    author  = {Jian Zhao and Runze Liu and Kaiyan Zhang and Zhimu Zhou and Junqi Gao and Dong Li and Jiafei Lyu and Zhouyi Qian and Biqing Qi and Xiu Li and Bowen Zhou},
+    journal = {arXiv preprint arXiv:2504.00891},
+    year    = {2025}
+}
+```
+
+Our recent work on LLM test-time scaling with PRMs:
 
 ```bibtex
 @article{liu2025can,

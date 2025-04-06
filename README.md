@@ -26,6 +26,10 @@
 
 - (**GenPRM**) GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning [[arXiv 2025.04](https://arxiv.org/abs/2504.00891)] [[Code](https://github.com/RyanLiu112/GenPRM)] [[Website](https://ryanliu112.github.io/GenPRM)] [[Model](https://huggingface.co/collections/GenPRM/genprm-67ee4936234ba5dd16bb9943)] [[Data](https://huggingface.co/collections/GenPRM/genprm-67ee4936234ba5dd16bb9943)]
 
+- (**EDU-PRM**) Process Reward Modeling with Entropy-Driven Uncertainty [[arXiv 2025.03](http://arxiv.org/abs/2503.22233)]
+
+- (**R-PRM**) R-PRM: Reasoning-Driven Process Reward Modeling [[arXiv 2025.03](http://arxiv.org/abs/2503.21295)] [[Blog](https://shesj-note.notion.site/R-PRM-Reasoning-Driven-Process-Reward-Modeling-9543fb238b0d48338dd44c60999ffd9b)] [[Code](https://github.com/NJUNLP/R-PRM)] [[Model](https://huggingface.co/kevinpro/R-PRM-7B-DPO)] [[Data](https://huggingface.co/datasets/kevinpro/R-PRM)]
+
 - (**RetrievalPRM**) Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://anonymous.4open.science/r/RetrievalPRM-1C77)] [[Model](https://huggingface.co/gebro13/RetrievalPRM)] [[Data](https://huggingface.co/datasets/gebro13/RetrievalPRM_Dataset)]
 
 - (**Multilingual PRM**) Demystifying Multilingual Chain-of-Thought in Process Reward Modeling [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://github.com/weixuan-wang123/Multilingual-PRM)]
@@ -76,6 +80,8 @@
 
 - (**MT-RewardTree**) MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling [[arXiv 2025.03](https://arxiv.org/abs/2503.12123)] [[Code](https://github.com/sabijun/MT-RewardTree)] [[Website](https://sabijun.github.io/MT_RewardTreePage)] [[Model](https://huggingface.co/collections/sabijun/mt-rewardtree-models-67cac935143f75dfae6f0938)] [[Data](https://huggingface.co/collections/sabijun/mt-rewardtree-dataset-67cacadc0dcbc92c02428948)]
 
+- (**GraphPRM**) Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners [[arXiv 2025.03](https://arxiv.org/abs/2503.00845)] [[Model](https://huggingface.co/GraphPRM)] [[Data](https://huggingface.co/GraphPRM)]
+
 - (**ASPRM**) AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[arXiv 2025.02](https://arxiv.org/abs/2502.13943)] [[Code](https://github.com/Lux0926/ASPRM)] [[Model](https://huggingface.co/Lux0926)] [[Data](https://huggingface.co/Lux0926)]
 
 - (**AgentPRM**) Process Reward Models for LLM Agents: Practical Framework and Directions [[arXiv 2025.02](https://arxiv.org/abs/2502.10325)] [[Code](https://github.com/sanjibanc/agent_prm)]
@@ -94,17 +100,23 @@
 
 ## 🔍 Other Process-Supervised Models
 
+- Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators [[arXiv 2025.03](http://arxiv.org/abs/2503.19877)] [[Code](https://github.com/prometheus-eval/scaling-evaluation-compute)]
+
 - (**Dyve**) Dyve: Thinking Fast and Slow for Dynamic Process Verification [[arXiv 2025.02](https://arxiv.org/abs/2502.11157)] [[Code](https://github.com/staymylove/Dyve)] [[Model](https://huggingface.co/Jianyuan1/deepseek-r1-14b-cot-math-reasoning-full)] [[Data](https://huggingface.co/datasets/Jianyuan1/cot-data)]
 
 
 
 ## 🌇 Multimodal PRMs
 
+- (**ViLPRM**) ViLBench: A Suite for Vision-Language Process Reward Modeling [[arXiv 2025.03](http://arxiv.org/abs/2503.20271)] [[Website](https://ucsc-vlaa.github.io/ViLBench)] [Data](https://huggingface.co/datasets/UCSC-VLAA/ViLReward-73K)]
+
 - (**VisualPRM**) VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[arXiv 2025.03](https://arxiv.org/abs/2503.10291)] [[Website](https://internvl.github.io/blog/2025-03-13-VisualPRM)] [[Model](https://huggingface.co/OpenGVLab/VisualPRM-8B)] [[Data](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)]
 
 
 
 ## 📊 Benchmarks
+
+- (**ViLBench**) ViLBench: A Suite for Vision-Language Process Reward Modeling [[arXiv 2025.03](http://arxiv.org/abs/2503.20271)] [[Website](https://ucsc-vlaa.github.io/ViLBench)] [Data](https://huggingface.co/datasets/UCSC-VLAA/ViLBench)]
 
 - (**MPBench**) MPBench: A Comprehensive Multimodal Reasoning Benchmark for Process Errors Identification [[arXiv 2025.03](https://arxiv.org/abs/2503.12505)] [[Code](https://github.com/xu5zhao/MPBench)] [[Website](https://mpbench.github.io)] [[Data](https://huggingface.co/datasets/xuzhaopan/MPBench)]
 

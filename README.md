@@ -113,6 +113,8 @@
 
 - (**VisualPRM**) VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[arXiv 2025.03](https://arxiv.org/abs/2503.10291)] [[Website](https://internvl.github.io/blog/2025-03-13-VisualPRM)] [[Model](https://huggingface.co/OpenGVLab/VisualPRM-8B)] [[Data](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)]
 
+- (**URSA**) URSA: Understanding and Verifying Chain-of-Thought Reasoning in Multimodal Mathematics [[arXiv 2025.01](https://arxiv.org/abs/2501.04686)] [[Code](https://github.com/URSA-MATH/URSA-MATH)] [[Website](https://ursa-math.github.io)] [[Model](https://huggingface.co/URSA-MATH)] [[Data](https://huggingface.co/URSA-MATH)]
+
 - (**M-STAR**) Diving into Self-Evolving Training for Multimodal Reasoning [[arXiv 2024.12](https://arxiv.org/abs/2412.17451)] [[Website](https://mstar-lmm.github.io)] [[Model](https://huggingface.co/collections/hkust-nlp/m-star-676bbf9f749dbf511e7c4a32)]
 
 

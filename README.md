@@ -32,9 +32,11 @@
 
 - (**RetrievalPRM**) Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://anonymous.4open.science/r/RetrievalPRM-1C77)] [[Model](https://huggingface.co/gebro13/RetrievalPRM)] [[Data](https://huggingface.co/datasets/gebro13/RetrievalPRM_Dataset)]
 
-- (**Multilingual PRM**) Demystifying Multilingual Chain-of-Thought in Process Reward Modeling [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://github.com/weixuan-wang123/Multilingual-PRM)]
+- (**Multilingual PRM**) Demystifying Multilingual Chain-of-Thought in Process Reward Modeling [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://github.com/weixuan-wang123/Multilingual-PRM)] [[Data](https://huggingface.co/datasets/vicky23456/multilingual-PRM800K)]
 
 - (**Universal PRM**) AURORA:Automated Training Framework of Universal Process Reward Models via Ensemble Prompting and Reverse Verification [[arXiv 2025.02](https://arxiv.org/abs/2502.11520)] [[Website](https://auroraprm.github.io)] [[Model](https://huggingface.co/infly/Universal-PRM-7B)]
+
+- (**Dyve**) Dyve: Thinking Fast and Slow for Dynamic Process Verification [[arXiv 2025.02](https://arxiv.org/abs/2502.11157)] [[Code](https://github.com/staymylove/Dyve)] [[Model](https://huggingface.co/Jianyuan1/deepseek-r1-14b-cot-math-reasoning-full)] [[Data](https://huggingface.co/datasets/Jianyuan1/cot-data)]
 
 - (**PURE PRM**) Stop Gamma Decay: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning [[Blog](https://tungsten-ink-510.notion.site/Stop-Gamma-Decay-Min-Form-Credit-Assignment-Is-All-Process-Reward-Model-Needs-for-Reasoning-19fcb6ed0184804eb07fd310b38af155)] [[Code](https://github.com/CJReinforce/PURE)] [[Model](https://huggingface.co/jinachris/PURE-PRM-7B)] [[Data](https://huggingface.co/datasets/HuggingFaceH4/prm800k-trl-dedup)]
 
@@ -58,13 +60,13 @@
 
 - (**PAV**) Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning [[ICLR 2025](https://openreview.net/forum?id=A6Y7AqlzLW)] [[arXiv 2024.10](https://arxiv.org/abs/2410.08146)]
 
-- FG-PRM: Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning
+- (**FG-PRM**) FG-PRM: Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning [[arXiv 2024.10](https://anonymous.4open.science/r/FG-PRM-75BB)]
 
-- Advancing Process Verification for Large Language Models via Tree-Based Preference Learning 
+- (**Tree-PLV**) Advancing Process Verification for Large Language Models via Tree-Based Preference Learning [[arXiv 2024.07](http://arxiv.org/abs/2407.00390)]
 
 - (**OmegaPRM**) Improve Mathematical Reasoning in Language Models by Automated Process Supervision [[arXiv 2024.06](https://arxiv.org/abs/2406.06592)] [[Code (Third Party)](https://github.com/openreasoner/openr/tree/main/data/omegaPRM_v2)]
 
-- AlphaMath Almost Zero: process Supervision without process 
+- AlphaMath Almost Zero: process Supervision without process [[arXiv 2024.05](http://arxiv.org/abs/2405.03553)]
 
 - (**Math-Shepherd**) Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations [[ACL 2024](https://aclanthology.org/2024.acl-long.510)] [[arXiv 2023.12](https://arxiv.org/abs/2312.08935)] [[Model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-prm)] [[Data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]
 
@@ -102,7 +104,6 @@
 
 - Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators [[arXiv 2025.03](http://arxiv.org/abs/2503.19877)] [[Code](https://github.com/prometheus-eval/scaling-evaluation-compute)]
 
-- (**Dyve**) Dyve: Thinking Fast and Slow for Dynamic Process Verification [[arXiv 2025.02](https://arxiv.org/abs/2502.11157)] [[Code](https://github.com/staymylove/Dyve)] [[Model](https://huggingface.co/Jianyuan1/deepseek-r1-14b-cot-math-reasoning-full)] [[Data](https://huggingface.co/datasets/Jianyuan1/cot-data)]
 
 
 
@@ -111,6 +112,8 @@
 - (**ViLPRM**) ViLBench: A Suite for Vision-Language Process Reward Modeling [[arXiv 2025.03](http://arxiv.org/abs/2503.20271)] [[Website](https://ucsc-vlaa.github.io/ViLBench)] [Data](https://huggingface.co/datasets/UCSC-VLAA/ViLReward-73K)]
 
 - (**VisualPRM**) VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[arXiv 2025.03](https://arxiv.org/abs/2503.10291)] [[Website](https://internvl.github.io/blog/2025-03-13-VisualPRM)] [[Model](https://huggingface.co/OpenGVLab/VisualPRM-8B)] [[Data](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)]
+
+- (**M-STAR**) Diving into Self-Evolving Training for Multimodal Reasoning [[arXiv 2024.12](https://arxiv.org/abs/2412.17451)] [[Website](https://mstar-lmm.github.io)] [[Model](https://huggingface.co/collections/hkust-nlp/m-star-676bbf9f749dbf511e7c4a32)]
 
 
 

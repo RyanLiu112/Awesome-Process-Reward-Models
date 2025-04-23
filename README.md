@@ -109,6 +109,8 @@
 
 ## 🌇 Multimodal PRMs
 
+- (**MM-PRM**) MM-PRM: An open implementation of OmegaPRM and its corresponding training pipeline [[Blog](https://adaptive-paddleboat-4fd.notion.site/MM-PRM-1c0c99bc2f2b80978eb5ec22e131fba1)] [[Model](https://huggingface.co/Cierra0506/MM-PRM-8B)]
+
 - (**ViLPRM**) ViLBench: A Suite for Vision-Language Process Reward Modeling [[arXiv 2025.03](http://arxiv.org/abs/2503.20271)] [[Website](https://ucsc-vlaa.github.io/ViLBench)] [Data](https://huggingface.co/datasets/UCSC-VLAA/ViLReward-73K)]
 
 - (**VisualPRM**) VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[arXiv 2025.03](https://arxiv.org/abs/2503.10291)] [[Website](https://internvl.github.io/blog/2025-03-13-VisualPRM)] [[Model](https://huggingface.co/OpenGVLab/VisualPRM-8B)] [[Data](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)]

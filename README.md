@@ -24,6 +24,10 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
+- (**ThinkPRM**) Process Reward Models That Think [[arXiv 2025.04](https://arxiv.org/abs/2504.16828)] [[Code](https://github.com/mukhal/thinkprm)] [[Model](https://huggingface.co/launch/ThinkPRM-14B)] [[Data](https://huggingface.co/datasets/launch/thinkprm-1K-verification-cots)]
+
+- (**ActPRM**) Efficient Process Reward Model Training via Active Learning [[arXiv 2025.04](http://arxiv.org/abs/2504.10559)] [[Code](https://github.com/sail-sg/ActivePRM)] [[Model](https://huggingface.co/collections/sail/active-prm-67fccbc10c94c41a6d6b26d9)] [[Data](https://huggingface.co/datasets/sail/ActPRMData)]
+
 - (**GenPRM**) GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning [[arXiv 2025.04](https://arxiv.org/abs/2504.00891)] [[Code](https://github.com/RyanLiu112/GenPRM)] [[Website](https://ryanliu112.github.io/GenPRM)] [[Model](https://huggingface.co/collections/GenPRM/genprm-67ee4936234ba5dd16bb9943)] [[Data](https://huggingface.co/collections/GenPRM/genprm-67ee4936234ba5dd16bb9943)]
 
 - (**EDU-PRM**) Process Reward Modeling with Entropy-Driven Uncertainty [[arXiv 2025.03](http://arxiv.org/abs/2503.22233)]

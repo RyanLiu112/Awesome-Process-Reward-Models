@@ -24,6 +24,8 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
+- (**Self-PRM**) Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs [[arXiv 2025.05](https://arxiv.org/abs/2505.11227)]
+
 - (**ThinkPRM**) Process Reward Models That Think [[arXiv 2025.04](https://arxiv.org/abs/2504.16828)] [[Code](https://github.com/mukhal/thinkprm)] [[Model](https://huggingface.co/launch/ThinkPRM-14B)] [[Data](https://huggingface.co/datasets/launch/thinkprm-1K-verification-cots)]
 
 - (**ActPRM**) Efficient Process Reward Model Training via Active Learning [[arXiv 2025.04](http://arxiv.org/abs/2504.10559)] [[Code](https://github.com/sail-sg/ActivePRM)] [[Model](https://huggingface.co/collections/sail/active-prm-67fccbc10c94c41a6d6b26d9)] [[Data](https://huggingface.co/datasets/sail/ActPRMData)]
@@ -42,7 +44,7 @@
 
 - (**Dyve**) Dyve: Thinking Fast and Slow for Dynamic Process Verification [[arXiv 2025.02](https://arxiv.org/abs/2502.11157)] [[Code](https://github.com/staymylove/Dyve)] [[Model](https://huggingface.co/Jianyuan1/deepseek-r1-14b-cot-math-reasoning-full)] [[Data](https://huggingface.co/datasets/Jianyuan1/cot-data)]
 
-- (**PURE PRM**) Stop Gamma Decay: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning [[Blog](https://tungsten-ink-510.notion.site/Stop-Gamma-Decay-Min-Form-Credit-Assignment-Is-All-Process-Reward-Model-Needs-for-Reasoning-19fcb6ed0184804eb07fd310b38af155)] [[Code](https://github.com/CJReinforce/PURE)] [[Model](https://huggingface.co/jinachris/PURE-PRM-7B)] [[Data](https://huggingface.co/datasets/HuggingFaceH4/prm800k-trl-dedup)]
+- (**PURE PRM**) Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning [[arXiv 2025.04](https://arxiv.org/abs/2504.15275)] [[Blog](https://tungsten-ink-510.notion.site/Stop-Gamma-Decay-Min-Form-Credit-Assignment-Is-All-Process-Reward-Model-Needs-for-Reasoning-19fcb6ed0184804eb07fd310b38af155)] [[Code](https://github.com/CJReinforce/PURE)] [[Model](https://huggingface.co/jinachris/PURE-PRM-7B)] [[Data](https://huggingface.co/datasets/HuggingFaceH4/prm800k-trl-dedup)]
 
 - (**CFPRM**) Coarse-to-Fine Process Reward Modeling for Mathematical Reasoning [[arXiv 2025.01](https://arxiv.org/abs/2501.13622)]
 
@@ -66,7 +68,7 @@
 
 - (**FG-PRM**) FG-PRM: Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning [[arXiv 2024.10](https://anonymous.4open.science/r/FG-PRM-75BB)]
 
-- (**Tree-PLV**) Advancing Process Verification for Large Language Models via Tree-Based Preference Learning [[arXiv 2024.07](http://arxiv.org/abs/2407.00390)]
+- (**Tree-PLV**) Advancing Process Verification for Large Language Models via Tree-Based Preference Learning [[EMNLP 2024](https://aclanthology.org/2024.emnlp-main.125)] [[arXiv 2024.07](http://arxiv.org/abs/2407.00390)]
 
 - (**OmegaPRM**) Improve Mathematical Reasoning in Language Models by Automated Process Supervision [[arXiv 2024.06](https://arxiv.org/abs/2406.06592)] [[Code (Third Party)](https://github.com/openreasoner/openr/tree/main/data/omegaPRM_v2)]
 
@@ -84,6 +86,8 @@
 
 ## 💻 PRMs for Other Tasks
 
+- (**Reward-SQL**) Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards [[arXiv 2025.05](https://arxiv.org/abs/2505.04671)] [[Code](https://github.com/ruc-datalab/RewardSQL)]
+
 - (**MT-RewardTree**) MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling [[arXiv 2025.03](https://arxiv.org/abs/2503.12123)] [[Code](https://github.com/sabijun/MT-RewardTree)] [[Website](https://sabijun.github.io/MT_RewardTreePage)] [[Model](https://huggingface.co/collections/sabijun/mt-rewardtree-models-67cac935143f75dfae6f0938)] [[Data](https://huggingface.co/collections/sabijun/mt-rewardtree-dataset-67cacadc0dcbc92c02428948)]
 
 - (**GraphPRM**) Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners [[arXiv 2025.03](https://arxiv.org/abs/2503.00845)] [[Model](https://huggingface.co/GraphPRM)] [[Data](https://huggingface.co/GraphPRM)]
@@ -96,18 +100,17 @@
 
 - (**MedS$^3$**) MedS$^3$: Towards Medical Small Language Models with Self-Evolved Slow Thinking [[arXiv 2025.01](https://arxiv.org/abs/2501.12051)] [[Code](https://github.com/pixas/MedSSS)] [[Model](https://huggingface.co/pixas/MedSSS_PRM)] [[Data](https://huggingface.co/datasets/pixas/MedSSS-data)]
 
-- (**OpenPRM**) OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees [[ICLR 2025](https://openreview.net/forum?id=fGIqGfmgkW)]
-
 - (**o1-Coder**) o1-Coder: an o1 Replication for Coding [[arXiv 2024.12](https://arxiv.org/abs/2412.00154)] [[Code](https://github.com/ADaM-BJTU/O1-CODER)]
 
 - Process Supervision-Guided Policy Optimization for Code Generation [[arXiv 2024.10](https://arxiv.org/abs/2410.17621)]
 
+- (**OpenPRM**) OpenPRM: Building Open-domain Process-based Reward Models with Preference Trees [[ICLR 2025](https://openreview.net/forum?id=fGIqGfmgkW)]
 
 
-## 🔍 Other Process-Supervised Models
+
+## 🔍 Other Process-Supervised Methods
 
 - Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators [[arXiv 2025.03](http://arxiv.org/abs/2503.19877)] [[Code](https://github.com/prometheus-eval/scaling-evaluation-compute)]
-
 
 
 

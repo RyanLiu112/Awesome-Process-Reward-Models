@@ -36,6 +36,12 @@
 
 - (**R-PRM**) R-PRM: Reasoning-Driven Process Reward Modeling [[arXiv 2025.03](http://arxiv.org/abs/2503.21295)] [[Blog](https://shesj-note.notion.site/R-PRM-Reasoning-Driven-Process-Reward-Modeling-9543fb238b0d48338dd44c60999ffd9b)] [[Code](https://github.com/NJUNLP/R-PRM)] [[Model](https://huggingface.co/kevinpro/R-PRM-7B-DPO)] [[Data](https://huggingface.co/datasets/kevinpro/R-PRM)]
 
+- (**BiRM**) Better Process Supervision with Bi-directional Rewarding Signals [[arXiv 2025.03](https://arxiv.org/abs/2503.04618)]
+
+- Process-based Self-Rewarding Language Models [[arXiv 2025.03](https://arxiv.org/abs/2503.03746)]
+
+- (**EpicPRM**) An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning [[arXiv 2025.03](https://arxiv.org/abs/2503.02382)]
+
 - (**RetrievalPRM**) Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://anonymous.4open.science/r/RetrievalPRM-1C77)] [[Model](https://huggingface.co/gebro13/RetrievalPRM)] [[Data](https://huggingface.co/datasets/gebro13/RetrievalPRM_Dataset)]
 
 - (**Multilingual PRM**) Demystifying Multilingual Chain-of-Thought in Process Reward Modeling [[arXiv 2025.02](https://arxiv.org/abs/2502.14361)] [[Code](https://github.com/weixuan-wang123/Multilingual-PRM)] [[Data](https://huggingface.co/datasets/vicky23456/multilingual-PRM800K)]
@@ -88,7 +94,11 @@
 
 - (**Reward-SQL**) Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards [[arXiv 2025.05](https://arxiv.org/abs/2505.04671)] [[Code](https://github.com/ruc-datalab/RewardSQL)]
 
+- (**GuidNav**) Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation [[arXiv 2025.04](http://arxiv.org/abs/2504.16073)]
+
 - (**MT-RewardTree**) MT-RewardTree: A Comprehensive Framework for Advancing LLM-Based Machine Translation via Reward Modeling [[arXiv 2025.03](https://arxiv.org/abs/2503.12123)] [[Code](https://github.com/sabijun/MT-RewardTree)] [[Website](https://sabijun.github.io/MT_RewardTreePage)] [[Model](https://huggingface.co/collections/sabijun/mt-rewardtree-models-67cac935143f75dfae6f0938)] [[Data](https://huggingface.co/collections/sabijun/mt-rewardtree-dataset-67cacadc0dcbc92c02428948)]
+
+- (**Flower**) Process-Supervised LLM Recommenders via Flow-guided Tuning [[arXiv 2025.03](https://arxiv.org/abs/2503.07377)]
 
 - (**GraphPRM**) Rewarding Graph Reasoning Process makes LLMs more Generalized Reasoners [[arXiv 2025.03](https://arxiv.org/abs/2503.00845)] [[Model](https://huggingface.co/GraphPRM)] [[Data](https://huggingface.co/GraphPRM)]
 

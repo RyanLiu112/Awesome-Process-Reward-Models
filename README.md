@@ -92,6 +92,8 @@
 
 ## 💻 PRMs for Other Tasks
 
+- (**Web-Shepherd**) Web-Shepherd: Advancing PRMs for Reinforcing Web Agents [[arXiv 2025.05](https://arxiv.org/abs/2505.15277)] [[Code](https://github.com/kyle8581/Web-Shepherd)]
+
 - (**Reward-SQL**) Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards [[arXiv 2025.05](https://arxiv.org/abs/2505.04671)] [[Code](https://github.com/ruc-datalab/RewardSQL)]
 
 - (**GuidNav**) Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation [[arXiv 2025.04](http://arxiv.org/abs/2504.16073)]

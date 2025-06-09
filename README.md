@@ -24,6 +24,8 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
+- (**FreePRM**) FreePRM: Training Process Reward Models Without Ground Truth Process Labels [[arXiv 2025.06](https://arxiv.org/abs/2506.03570)] [[GitHub](https://github.com/sunlin-ai/FreePRM)]
+
 - (**Self-PRM**) Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs [[arXiv 2025.05](https://arxiv.org/abs/2505.11227)]
 
 - (**ThinkPRM**) Process Reward Models That Think [[arXiv 2025.04](https://arxiv.org/abs/2504.16828)] [[Code](https://github.com/mukhal/thinkprm)] [[Model](https://huggingface.co/launch/ThinkPRM-14B)] [[Data](https://huggingface.co/datasets/launch/thinkprm-1K-verification-cots)]
@@ -92,6 +94,10 @@
 
 ## 💻 PRMs for Other Tasks
 
+- (****) From Mathematical Reasoning to Code: Generalization of Process Reward Models in Test-Time Scaling [[arXiv 2025.06](https://arxiv.org/abs/2506.00027)]
+
+- (**ReasonRAG**) Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning [[arXiv 2025.05](http://arxiv.org/abs/2505.14069)] [[Code](https://github.com/wlzhang2020/ReasonRAG)]
+
 - (**Web-Shepherd**) Web-Shepherd: Advancing PRMs for Reinforcing Web Agents [[arXiv 2025.05](https://arxiv.org/abs/2505.15277)] [[Code](https://github.com/kyle8581/Web-Shepherd)]
 
 - (**Reward-SQL**) Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards [[arXiv 2025.05](https://arxiv.org/abs/2505.04671)] [[Code](https://github.com/ruc-datalab/RewardSQL)]
@@ -141,6 +147,8 @@
 
 
 ## 📊 Benchmarks
+
+- (**Socratic-PRMBench**) Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns [[arXiv 2025.05](https://arxiv.org/abs/2505.23474)] [[GitHub](https://github.com/Xiang-Li-oss/Socratic-PRMBench)]
 
 - (**ViLBench**) ViLBench: A Suite for Vision-Language Process Reward Modeling [[arXiv 2025.03](http://arxiv.org/abs/2503.20271)] [[Website](https://ucsc-vlaa.github.io/ViLBench)] [Data](https://huggingface.co/datasets/UCSC-VLAA/ViLBench)]
 

@@ -94,7 +94,7 @@
 
 ## 💻 PRMs for Other Tasks
 
-- (****) From Mathematical Reasoning to Code: Generalization of Process Reward Models in Test-Time Scaling [[arXiv 2025.06](https://arxiv.org/abs/2506.00027)]
+- From Mathematical Reasoning to Code: Generalization of Process Reward Models in Test-Time Scaling [[arXiv 2025.06](https://arxiv.org/abs/2506.00027)]
 
 - (**ReasonRAG**) Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning [[arXiv 2025.05](http://arxiv.org/abs/2505.14069)] [[Code](https://github.com/wlzhang2020/ReasonRAG)]
 

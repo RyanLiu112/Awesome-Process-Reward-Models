@@ -24,7 +24,13 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
+- (**SCAN**) SCAN: Self-Denoising Monte Carlo Annotation for Robust Process Reward Learning [[ACL 2025]()]
+
 - (**FreePRM**) FreePRM: Training Process Reward Models Without Ground Truth Process Labels [[arXiv 2025.06](https://arxiv.org/abs/2506.03570)] [[GitHub](https://github.com/sunlin-ai/FreePRM)]
+
+- (**Q-RM**) Discriminative Policy Optimization for Token-Level Reward Models [[ICML 2025](https://openreview.net/forum?id=aq3YxKPZBk)] [[arXiv 2025.05](https://arxiv.org/abs/2505.23363)] [[GitHub](https://github.com/homzer/Q-RM)]
+
+- (**PathFinder-PRM**) Error Typing for Smarter Rewards: Improving Process Reward Models with Error-Aware Hierarchical Supervision [[arXiv 2025.05](https://arxiv.org/abs/2505.19706)] [[GitHub](https://github.com/declare-lab/PathFinder-PRM)]
 
 - (**Self-PRM**) Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs [[arXiv 2025.05](https://arxiv.org/abs/2505.11227)]
 

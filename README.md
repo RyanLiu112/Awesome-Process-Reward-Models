@@ -24,6 +24,12 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
+- (**CoLD**) CoLD: Counterfactually-Guided Length Debiasing for Process Reward Models [[arXiv 2025.07](https://arxiv.org/abs/2507.15698)]
+
+- (**SPARE**) SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling [[arXiv 2025.06](https://arxiv.org/abs/2506.15498)]
+
+- (**SP-PRM**) From Outcomes to Processes: Guiding PRM Learning from ORM for Inference-Time Alignment [[arXiv 2025.06](https://arxiv.org/abs/2506.12446)]
+
 - (**SCAN**) SCAN: Self-Denoising Monte Carlo Annotation for Robust Process Reward Learning [[ACL 2025]()]
 
 - (**FreePRM**) FreePRM: Training Process Reward Models Without Ground Truth Process Labels [[arXiv 2025.06](https://arxiv.org/abs/2506.03570)] [[GitHub](https://github.com/sunlin-ai/FreePRM)]
@@ -139,6 +145,8 @@
 
 
 ## 🌇 Multimodal PRMs
+
+- (**PRM-BAS**) PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing [[arXiv 2025.04](https://arxiv.org/abs/2504.10222)]
 
 - (**MM-PRM**) MM-PRM: An open implementation of OmegaPRM and its corresponding training pipeline [[Blog](https://adaptive-paddleboat-4fd.notion.site/MM-PRM-1c0c99bc2f2b80978eb5ec22e131fba1)] [[Model](https://huggingface.co/Cierra0506/MM-PRM-8B)]
 

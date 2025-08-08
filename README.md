@@ -146,6 +146,8 @@
 
 ## 🌇 Multimodal PRMs
 
+- (**VRPRM**) VRPRM: Process Reward Modeling via Visual Reasoning [[arXiv 2025.08](https://arxiv.org/abs/2508.03556)]
+
 - (**PRM-BAS**) PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing [[arXiv 2025.04](https://arxiv.org/abs/2504.10222)]
 
 - (**MM-PRM**) MM-PRM: An open implementation of OmegaPRM and its corresponding training pipeline [[Blog](https://adaptive-paddleboat-4fd.notion.site/MM-PRM-1c0c99bc2f2b80978eb5ec22e131fba1)] [[Model](https://huggingface.co/Cierra0506/MM-PRM-8B)]

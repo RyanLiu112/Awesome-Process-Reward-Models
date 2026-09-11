@@ -106,6 +106,8 @@
 
 ## 💻 PRMs for Other Tasks
 
+- Steer, Don't Solve: Training Small Critic Models for Large Code Agents [[arXiv 2026.06](https://arxiv.org/abs/2606.21811)] [[Code](https://github.com/shubhamrgandhi/critic-training)] [[Model](https://huggingface.co/code-critic-model)]
+
 - (**CorVer**) Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering [[arXiv 2026.05](https://arxiv.org/abs/2605.29648)] [[Code](https://github.com/shichengf/CorVer)]
 
 - From Mathematical Reasoning to Code: Generalization of Process Reward Models in Test-Time Scaling [[arXiv 2025.06](https://arxiv.org/abs/2506.00027)]

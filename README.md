@@ -142,6 +142,8 @@
 
 ## 🔍 Other Process-Supervised Methods
 
+- (**DRACO**) DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training [[arXiv 2026.09](https://arxiv.org/abs/2609.04094)] [[Code](https://github.com/IBM/draco)]
+
 - Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators [[arXiv 2025.03](http://arxiv.org/abs/2503.19877)] [[Code](https://github.com/prometheus-eval/scaling-evaluation-compute)]
 
 

@@ -24,6 +24,8 @@
 
 ## 📐 PRMs for Mathematical Tasks
 
+- (**TDRM**) TDRM: Smooth Reward Models with Temporal Difference for LLM RL and Inference [[arXiv 2025.09](https://arxiv.org/abs/2509.15110)] [[Code](https://github.com/THUDM/TDRM)]
+
 - (**CoLD**) CoLD: Counterfactually-Guided Length Debiasing for Process Reward Models [[arXiv 2025.07](https://arxiv.org/abs/2507.15698)]
 
 - (**SPARE**) SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling [[arXiv 2025.06](https://arxiv.org/abs/2506.15498)]

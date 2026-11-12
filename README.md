@@ -156,6 +156,8 @@
 
 ## 🌇 Multimodal PRMs
 
+- (**VegAS**) Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents [[arXiv 2026.05](https://arxiv.org/abs/2605.12620)] [[Code](https://github.com/nishadsinghi/vegas)] [[Website](https://nishadsinghi.github.io/vegas)]
+
 - (**VRPRM**) VRPRM: Process Reward Modeling via Visual Reasoning [[arXiv 2025.08](https://arxiv.org/abs/2508.03556)]
 
 - (**PRM-BAS**) PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing [[arXiv 2025.04](https://arxiv.org/abs/2504.10222)]
